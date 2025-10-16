@@ -6,7 +6,6 @@ author_profile: true
 
 ## Education
 | Period       | Degree                         | Institution                         | Location       |
-|--------------|--------------------------------|-------------------------------------|----------------|
 | 2025–Present | Professional PhD in Surgery    | Peking University First Hospital    | Beijing, China |
 | 2022–2025    | Professional Master in Surgery | Peking University First Hospital    | Beijing, China |
 | 2018–2022    | Bachelor of Medicine           | Jiangsu University                  | Zhenjiang, China|
