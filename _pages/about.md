@@ -7,24 +7,33 @@ redirect_from:
   - /about.html
 ---
 
-I am a MD candidate in General Surgery with a focus on Hepatobiliary and Pancreatic Surgery at Peking University First Hospital, Peking University Health Science Center. Born in December 1997 in Henan Province, China, I completed my undergraduate studies at Jiangsu University (Zhenjiang, Jiangsu Province) in 2022, where I obtained my Bachelor's degree.
+## Academic Background
+Born in December 1997 in Henan Province, China, I have a solid academic trajectory focused on medical research and clinical practice:
+- **2025–Present**: Professional Doctoral Candidate in Surgery (General Surgery, Hepatobiliary and Pancreatic Surgery Subspecialty) at Peking University First Hospital, Peking University Health Science Center.
+- **2022–2025**: Professional Master’s Candidate in Surgery at Peking University First Hospital, Peking University Health Science Center (admitted via postgraduate entrance examination in 2022).
+- **2018–2022**: Undergraduate Student at Jiangsu University (Zhenjiang, Jiangsu Province), obtained Bachelor’s Degree in Medicine.
 
-In 2022, I successfully passed the postgraduate entrance examination and was admitted to Peking University Health Science Center, pursuing a professional Master's degree in Surgery at Peking University First Hospital. In 2025, I passed the internal doctoral transfer examination and continued my studies as a professional Doctoral candidate in Surgery at the same institution.
 
-My research focuses on both clinical and basic studies in hepatobiliary and pancreatic diseases, with particular interests in minimally invasive surgical techniques and perioperative management optimization.
+## Research Focus
+My research centers on **clinical and basic studies of hepatobiliary and pancreatic diseases**, with two core directions:
+1. Minimally invasive surgical techniques for hepatobiliary and pancreatic disorders (e.g., laparoscopic resection, robotic-assisted surgery).
+2. Optimization of perioperative management (e.g., risk assessment for high-risk patients, accelerated rehabilitation after surgery).
 
-[Email](mailto:wxl_9963@163.com) / [Github](https://github.com/wxl9963.github.io) 
+I aim to bridge basic research findings with clinical practice, improving treatment efficacy and patient prognosis.
 
-On this academic homepage, you can find an overview of my academic work, including:
-- Publications and preprints
-- Research projects and ongoing studies
-- Conference presentations and academic talks
-- Curriculum vitae and academic background
 
-This homepage is maintained to share my research progress and facilitate academic exchanges.
+## Academic Interests
+Beyond my core research, I am also interested in:
+- Medical education and training for young surgeons.
+- Application of artificial intelligence in surgical outcome prediction.
+- International academic exchanges in hepatobiliary and pancreatic surgery.
 
-For any questions about my research, publications, or potential academic collaborations, please refer to the "Contact" section in the sidebar or send me an email directly at wxl_9963@163.com. Your inquiries are always welcome.
 
+## Contact
+For academic collaborations or inquiries, feel free to reach me via:
+- Email: [wxl_9963@163.com](mailto:wxl_9963@163.com)
+- GitHub: [wxl9963](https://github.com/wxl9963.github.io)
+- ORCID: [0009-0005-5523-9873](https://orcid.org/0009-0005-5523-9873)
 
 
 
