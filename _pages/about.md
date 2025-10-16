@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Wang Xinglong - MD-PhD Candidate in General Surgery, Peking University | Academic Homepage"
+title: "Wang Xinglong - MD Candidate in General Surgery, Peking University | Academic Homepage"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am a MD-PhD candidate in General Surgery with a focus on Hepatobiliary and Pancreatic Surgery at Peking University First Hospital, Peking University Health Science Center. Born in December 1997 in Henan Province, China, I completed my undergraduate studies at Jiangsu University (Zhenjiang, Jiangsu Province) in 2022, where I obtained my Bachelor's degree.
+I am a MD candidate in General Surgery with a focus on Hepatobiliary and Pancreatic Surgery at Peking University First Hospital, Peking University Health Science Center. Born in December 1997 in Henan Province, China, I completed my undergraduate studies at Jiangsu University (Zhenjiang, Jiangsu Province) in 2022, where I obtained my Bachelor's degree.
 
 In 2022, I successfully passed the postgraduate entrance examination and was admitted to Peking University Health Science Center, pursuing a professional Master's degree in Surgery at Peking University First Hospital. In 2025, I passed the internal doctoral transfer examination and continued my studies as a professional Doctoral candidate in Surgery at the same institution.
 
