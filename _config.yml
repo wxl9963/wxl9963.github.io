@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "Wang Xinglong - MD Candidate in General Surgery"
+title                    : "Xinglong Wang"
 title_separator          : "-"
-name                     : &name "Wang Xinglong"
-description              : &description "Academic portfolio of Wang Xinglong, focusing on hepatobiliary and pancreatic surgery research"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Xinglong Wang"
+description              : &description "Academic portfolio of Xinglong Wang, focusing on hepatobiliary and pancreatic surgery research"   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://wxl9963.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "wxl9963/wxl9963.github.io"
 author:
   # Biographic information
   avatar           : "ZP_wxl.png"
-  name             : "Wang Xinglong"
+  name             : "Xinglong Wang"
   pronouns         : # example: "he/him"  
   bio              : "MD Candidate in General Surgery, Peking University First Hospital. Research focus: Clinical and basic studies on hepatobiliary and pancreatic diseases, with emphasis on minimally invasive surgery."
   location         : "Beijing, China"
