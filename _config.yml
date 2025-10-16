@@ -23,7 +23,7 @@ repository               : "wxl9963/wxl9963.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "../images/ZP_wxl.png"
+  avatar           : "ZP_wxl.png"
   name             : "Wang Xinglong"
   pronouns         : # example: "he/him"  
   bio              : "MD Candidate in General Surgery, Peking University First Hospital. Research focus: Clinical and basic studies on hepatobiliary and pancreatic diseases, with emphasis on minimally invasive surgery."
